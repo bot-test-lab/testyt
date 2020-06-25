@@ -3,9 +3,11 @@ class Translation(object):
 i am YouTube Downloader Bot
 <code> I Will Convert Youtube Link to Video/File & Mp3. </code>
 
-<b> Send YouTube link and follow the screen promotes. </b>
+<b> Send YouTube link and follow the screen promptes. </b>
 
-Channel : © @MyTestBotZ"""
+NB: <code> bot may slow ,so wait 5 - 10 second to bot respond.... please dont spam with links...</code>
+
+Channel :  @MyTestBotZ"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b> Upgraded !!! </b> "
